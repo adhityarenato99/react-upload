@@ -1,7 +1,6 @@
 {
   "name": "react",
   "version": "0.0.0",
-  "proxy":"https://upload.file.ansabr.tech/",
   "private": true,
   "dependencies": {
     "axios": "^0.27.2",
